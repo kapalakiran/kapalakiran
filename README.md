@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kapalakiran
 - 👀 I’m interested in Automation Testing
+- 💞️ I’m good in Selenium Webdriver with Java, REST API's Automation & Cypress
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Selenium Webdriver with Java, REST API's Automation & Cypress
 - 📫 How to reach me ...
 
 <!---
